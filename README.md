@@ -7,6 +7,7 @@ Internal Assessment on CO2 emissions
 ![alt text](https://github.com/dhruvn9/HDV-IA2-Dhruv-Nouni/blob/main/Images/WhatsApp%20Image%202021-12-03%20at%206.32.51%20PM.jpeg)
 # Contributor
 Dhruv Nouni
+[Dhruv Nouni](https://github.com/dhruvn9)
 Roll no - 16010120160
 Batch - DV4
 (KJ Somaiya College Of Engineering,Mumbai)
